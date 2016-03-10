@@ -1,4 +1,5 @@
 Github for Web Designers
 ========================
 
-Hi! Welcome to the companion reference to my lynda.com Github for Web Designers course. This reference also serves as the exercise files for my course, so you can download the exercise files from this repo as well.
+Hi! Welcome to the  Github for Web. 
+##[This is the edit in the remote to be reflected in the local repo]
